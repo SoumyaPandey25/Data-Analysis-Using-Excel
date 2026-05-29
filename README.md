@@ -1,4 +1,4 @@
-# Excel-Analysis-Pivot-Table
+# Data-Analysis-Using-Excel
 
 # 📊 Overview
 
